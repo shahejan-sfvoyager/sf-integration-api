@@ -8,3 +8,5 @@ Prerequisites:
 Example : Fecth & Download all the files attachements of Case records in Arranged local folders (i.e. In folders with case number having attachments of respective case) 
 
 Used Partner WSDL of salesforce to connect & query data in .NET console App
+
+https://help.salesforce.com/articleView?id=000325670&language=en_US&type=1&mode=1
