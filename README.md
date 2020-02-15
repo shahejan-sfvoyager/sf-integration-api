@@ -5,7 +5,7 @@ Prerequisites:
 2. Knowledge of .NET basics
 3. Salesforce Org
 
-Example : Fecth & Download all the files attachements of Case records in Arranged local folders (i.e. In folders with case number having attachments of respective case) 
+Example : Fetch & Download all the files attachments of Case records in Arranged local folders (i.e. In folders with case number having attachments of respective case)
 
 Used Partner WSDL of salesforce to connect & query data in .NET console App
 
